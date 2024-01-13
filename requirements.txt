@@ -1,0 +1,6 @@
+#Flask and its dependencies
+Flask
+Werkzeug
+Jinja2
+itsdangerous
+click
