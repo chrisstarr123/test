@@ -4,3 +4,12 @@ Werkzeug
 Jinja2
 itsdangerous
 click
+
+#Add general and app dependencies
+python-dotenv
+surrealdb
+openai
+flask-sock
+requests
+simple-websocket
+
